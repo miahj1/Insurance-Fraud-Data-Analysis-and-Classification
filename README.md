@@ -6,4 +6,4 @@ by making an R based google collab notebook.
 
 The full write up for the respository is avaliable on my blog, [jabedmiah](https://www.jabedmiah.com/2023/06/01/insurance-fraud-classification.html). 
 
-`Insurance Fraud Data Analysis and Classification.docx` is an old write-up and is saved in this repository for archival purposes. The entire analysis is performed using Python; the tools I use in the analysis vary from modules such as matplotlib, seaborn, scikit-learn, imbalanced-learn, and numpy.
+`Insurance Fraud Data Analysis and Classification.docx` is an old write-up and is saved in this repository for archival purposes. The entire analysis is performed using Python; the tools I use in the analysis vary from modules such as matplotlib, seaborn, scikit-learn, imbalanced-learn, mlextend, and numpy.
